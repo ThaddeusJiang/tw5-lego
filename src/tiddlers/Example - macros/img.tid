@@ -1,0 +1,6 @@
+created: 20230228023249915
+modified: 20230228023317710
+title: Example - macros/img
+type: text/vnd.tiddlywiki
+
+<<img "https://i.imgur.com/1DDdNqa.gif" "花椿">>

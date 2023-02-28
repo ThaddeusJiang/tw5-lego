@@ -1,0 +1,27 @@
+{
+  "name": "tw5-beauty",
+  "version": "0.0.1",
+  "author": "Thaddeus Jiang",
+  "description": "TiddlyWiki Plugin for Beautiful TiddlyWiki",
+  "homepage": "https://github.com/ThaddeusJiang/tw5-beauty",
+  "license": "MIT",
+  "keywords": [
+    "tiddlywiki",
+    "tiddlywiki5",
+    "tw5",
+    "wiki",
+    "tiddlywiki-plugin",
+    "plugin"
+  ],
+  "main": "main.js",
+  "scripts": {
+    "dev": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html",
+    "start": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html & echo $! > tw.pid",
+    "stop": "kill `cat tw.pid` && rm tw.pid",
+    "release": "tiddlywiki editions/release --verbose --build release"
+  },
+  "dependencies": {
+    "tiddlywiki": ">=5.1.20",
+    "tw5-thirdflow": ">=1.2.10"
+  }
+}

@@ -1,0 +1,15 @@
+created: 20230228015217430
+creator: Thaddeus Jiang
+modified: 20230228024321796
+modifier: Thaddeus Jiang
+tags: $:/plugins/ThaddeusJiang/beauty
+title: $:/plugins/ThaddeusJiang/beauty/readme
+type: text/vnd.tiddlywiki
+
+Welcome to [[tw5-beauty|https://github.com/ThaddeusJiang/tw5-beauty]], let's beautify TiddlyWiki UI.
+
+* used in [[TiddlyJam|https://github.com/ThaddeusJiang/tiddlyjam]].
+
+! Usage
+
+drag {{$:/plugins/ThaddeusJiang/beauty||$:/core/ui/TagTemplate}} to your TiddlyWiki.

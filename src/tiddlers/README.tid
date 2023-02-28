@@ -1,0 +1,26 @@
+created: 20180818170954023
+creator: Thaddeus Jiang
+modified: 20230228024157074
+modifier: Thaddeus Jiang
+tags: 
+title: README
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/ThaddeusJiang/beauty/readme}}
+
+
+! Examples
+
+!! macros/img
+
+```
+<<img "https://i.imgur.com/1DDdNqa.gif" "花椿">>
+```
+
+[[Example - macros/img]]
+
+!! tags/secret
+
+add {{secret||$:/core/ui/TagTemplate}} to your tiddler.
+
+[[Example - tags/secret Example]]

@@ -1,0 +1,13 @@
+author: Thaddeus Jiang
+created: 20230228015057191
+description: beautify TiddlyWiki UI
+list: readme license history
+modified: 20230228044059615
+plugin-type: plugin
+source: https://github.com/ThaddeusJiang/tw5-beauty
+tags: $:/plugins/ThaddeusJiang/beauty
+title: $:/plugins/ThaddeusJiang/beauty
+type: application/json
+version: 0.0.1
+
+{"tiddlers": {}}

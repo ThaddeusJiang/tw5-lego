@@ -1,0 +1,17 @@
+created: 20230228020330057
+modified: 20230228021453696
+tags: $:/tags/Stylesheet $:/plugins/ThaddeusJiang/beauty
+title: $:/plugins/ThaddeusJiang/beauty/styles/style.css
+type: text/css
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.mt-4 {
+  mergin-top: 1rem;
+}
