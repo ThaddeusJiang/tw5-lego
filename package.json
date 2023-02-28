@@ -16,9 +16,7 @@
   "main": "main.js",
   "scripts": {
     "dev": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html",
-    "start": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html & echo $! > tw.pid",
-    "stop": "kill `cat tw.pid` && rm tw.pid",
-    "release": "tiddlywiki editions/release --verbose --build release"
+    "build": "tiddlywiki editions/release --verbose --build release"
   },
   "dependencies": {
     "tiddlywiki": ">=5.1.20",

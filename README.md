@@ -24,7 +24,7 @@ npm run dev
 ## Release
 
 ```
-npm run release
+npm run build
 ```
 
 ## License
