@@ -1,6 +1,6 @@
 created: 20180818170954023
 creator: Thaddeus Jiang
-modified: 20230228024157074
+modified: 20230609151040747
 modifier: Thaddeus Jiang
 tags: 
 title: README
@@ -24,3 +24,9 @@ type: text/vnd.tiddlywiki
 add {{secret||$:/core/ui/TagTemplate}} to your tiddler.
 
 [[Example - tags/secret Example]]
+
+!! secret code
+
+[[Example - secret code block]]
+
+
