@@ -1,7 +1,7 @@
 created: 20230228020330057
 modified: 20230608135539436
-tags: $:/tags/Stylesheet $:/plugins/ThaddeusJiang/beauty
-title: $:/plugins/ThaddeusJiang/beauty/styles/utility-first.css
+tags: $:/tags/Stylesheet $:/plugins/ThaddeusJiang/lego
+title: $:/plugins/ThaddeusJiang/lego/styles/utility-first.css
 type: text/css
 
 .flex {

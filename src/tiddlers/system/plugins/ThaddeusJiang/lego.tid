@@ -4,9 +4,9 @@ description: beautify TiddlyWiki UI
 list: readme license history
 modified: 20230228044059615
 plugin-type: plugin
-source: https://github.com/ThaddeusJiang/tw5-beauty
-tags: $:/plugins/ThaddeusJiang/beauty
-title: $:/plugins/ThaddeusJiang/beauty
+source: https://github.com/ThaddeusJiang/tw5-lego
+tags: $:/plugins/ThaddeusJiang/lego
+title: $:/plugins/ThaddeusJiang/lego
 type: application/json
 version: 0.0.1
 

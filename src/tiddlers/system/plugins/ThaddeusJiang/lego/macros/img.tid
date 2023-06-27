@@ -1,7 +1,7 @@
 created: 20230228020209322
 modified: 20230228022736382
-tags: $:/tags/Macro $:/plugins/ThaddeusJiang/beauty
-title: $:/plugins/ThaddeusJiang/beauty/macros/img
+tags: $:/tags/Macro $:/plugins/ThaddeusJiang/lego
+title: $:/plugins/ThaddeusJiang/lego/macros/img
 type: text/vnd.tiddlywiki
 
 \define img(src, caption)
