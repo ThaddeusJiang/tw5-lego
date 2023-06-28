@@ -1,9 +1,9 @@
 {
-  "name": "tw5-beauty",
+  "name": "tw5-lego",
   "version": "0.0.1",
   "author": "Thaddeus Jiang",
   "description": "TiddlyWiki Plugin for Beautiful TiddlyWiki",
-  "homepage": "https://github.com/ThaddeusJiang/tw5-beauty",
+  "homepage": "https://github.com/ThaddeusJiang/tw5-lego",
   "license": "MIT",
   "keywords": [
     "tiddlywiki",
@@ -15,11 +15,14 @@
   ],
   "main": "main.js",
   "scripts": {
-    "dev": "tiddlywiki editions/develop --verbose --server 8080 $:/core/save/all text/plain text/html",
+    "dev": "tiddlywiki editions/develop --verbose --server 8081 $:/core/save/all text/plain text/html",
     "build": "tiddlywiki editions/release --verbose --build release"
   },
   "dependencies": {
     "tiddlywiki": ">=5.1.20",
     "tw5-thirdflow": ">=1.2.10"
+  },
+  "devDependencies": {
+    "daisyui": "^3.1.0"
   }
 }

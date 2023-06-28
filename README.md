@@ -1,12 +1,12 @@
-# tw5-beauty
+# tw5-lego
 
-Welcome to tw5-beauty, let's beautify TiddlyWiki UI.
+Welcome to tw5-lego, let's beautify TiddlyWiki UI.
 
-[Demo](https://thaddeusjiang.github.io/tw5-beauty/)
+[Demo](https://thaddeusjiang.github.io/tw5-lego/)
 
 ## Usage
 
-1. Download the latest release from [here](https://thaddeusjiang.github.io/tw5-beauty/).
+1. Download the latest release from [here](https://thaddeusjiang.github.io/tw5-lego/).
 2. Drag and drop the downloaded file into your TiddlyWiki.
 
 ## Features
