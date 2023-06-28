@@ -2,7 +2,7 @@ created: 20180818170954023
 creator: Thaddeus Jiang
 modified: 20230628133212613
 modifier: Thaddeus Jiang
-tags: 
+tags:
 title: README
 type: text/vnd.tiddlywiki
 
@@ -23,13 +23,13 @@ type: text/vnd.tiddlywiki
 
 [[Example - tags/secret]]
 
-!! 3. secret code
+!! 3. code-blocks/secret
 
 > write `secret` in the header of code block.
 
 [[Example - code-blocks/secret]]
 
-!! 4. tag-renamer
+!! 4. tiddlers/tag-renamer
 
 [[$:/plugins/ThaddeusJiang/lego/tiddlers/tag-renamer]]
 

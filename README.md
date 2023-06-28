@@ -1,6 +1,6 @@
 # tw5-lego
 
-Welcome to tw5-lego, let's beautify TiddlyWiki UI.
+Welcome to tw5-lego, refine your TiddlyWiki with tw5-lego tiddlers.
 
 [Demo](https://thaddeusjiang.github.io/tw5-lego/)
 
@@ -11,8 +11,10 @@ Welcome to tw5-lego, let's beautify TiddlyWiki UI.
 
 ## Features
 
-- [x] macros/img
-- [x] tags/secret
+1. macros/img
+2. tags/secret
+3. code-blocks/secret
+4. tiddlers/tag-renamer
 
 ## Development
 
