@@ -1,7 +1,15 @@
 created: 20230228023249915
-modified: 20230628133055637
+modified: 20230712040614840
 tags: Example
 title: Example - macros/img
 type: text/vnd.tiddlywiki
+
+code:
+
+```
+<<img "https://i.imgur.com/1DDdNqa.gif" "花椿" >>
+```
+
+result:
 
 <<img "https://i.imgur.com/1DDdNqa.gif" "花椿" >>

@@ -1,0 +1,14 @@
+created: 20220302002824184
+creator: TJ
+modified: 20230712041228424
+modifier: TJ
+tags: $:/tags/ViewTemplate $:/plugins/ThaddeusJiang/lego $:/plugins/ThaddeusJiang/lego/feature
+title: $:/plugins/ThaddeusJiang/lego/tiddler-counter
+type: text/vnd.tiddlywiki
+
+
+<div class="flex justify-end">
+<div>
+<strong><$text text={{$:/SiteTitle}} /></strong> has <strong><$count filter="[!is[system]]"/></strong> tiddlers.
+</div>
+</div>

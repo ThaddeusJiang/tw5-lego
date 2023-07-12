@@ -1,6 +1,6 @@
 created: 20230228015217430
 creator: Thaddeus Jiang
-modified: 20230628131658527
+modified: 20230712041613188
 modifier: Thaddeus Jiang
 tags: $:/plugins/ThaddeusJiang/lego
 title: $:/plugins/ThaddeusJiang/lego/readme
@@ -8,6 +8,14 @@ type: text/vnd.tiddlywiki
 
 Welcome to [[tw5-lego|https://github.com/ThaddeusJiang/tw5-lego]], refine your TiddlyWiki with tw5-lego tiddlers.
 
-! Usage
+! Install
+
+!! install all features
 
 drag {{$:/plugins/ThaddeusJiang/lego||$:/core/ui/TagTemplate}} to your TiddlyWiki.
+
+!! install single feature
+
+drag the tiddler to your TiddlyWiki
+
+<<list-links [tag[$:/plugins/ThaddeusJiang/lego/feature]] >>
