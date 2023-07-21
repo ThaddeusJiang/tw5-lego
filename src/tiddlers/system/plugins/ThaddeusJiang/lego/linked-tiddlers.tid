@@ -1,16 +1,38 @@
 created: 20230307134203066
-modified: 20230712040016286
-tags: $:/tags/ViewTemplate $:/plugins/ThaddeusJiang/lego $:/plugins/ThaddeusJiang/lego/feature
+modified: 20230721035653268
+tags: $:/tags/ViewTemplate $:/plugins/ThaddeusJiang/lego
 title: $:/plugins/ThaddeusJiang/lego/linked-tiddlers
 type: text/vnd.tiddlywiki
 
+<$list filter="[all[current]!is[system]]">
+
+<section style="background-color: #f4f4f4; border-radius: 4px; padding: 0.125rem 1rem; margin: 0.5rem 0;">
+
+<$reveal type="nomatch" state="$:/state/show_backlinks" text="show">
+
+<$button set="$:/state/show_backlinks" setTo="show" class="tc-btn-invisible tc-tiddlylink">show references</$button>
+
+</$reveal>
+
+<$reveal type="match" state="$:/state/show_backlinks" text="show">
+
+<$button set="$:/state/show_backlinks" setTo="hide" class="tc-btn-invisible tc-tiddlylink">  hide references</$button>
+
 <$vars searchme=<<currentTiddler>> searchspx={{{ [<currentTiddler>escaperegexp[]]}}} >
 
-<<tabs '[!is[system]all[current]backlinks[]!tag[hide]sort[title]] -[is[current]]' '' '$:/state/tab/strolltabs' 'tc-vertical'>>
+linked:
+
+<<list-links '[!is[system]all[current]backlinks[]!tag[hide]sort[title]] -[is[current]]' >>
+
 </$vars>
-
-
 
 <$vars searchme=<<currentTiddler>> searchspx={{{ [<currentTiddler>escaperegexp[]]}}} >
-<<tabs '[!is[system]all[current]tagging[]!tag[hide]sort[title]] -[is[current]]' '' '$:/state/tab/strolltabs' 'tc-vertical'>>
+tagged:
+<<list-links '[!is[system]all[current]tagging[]!tag[hide]sort[title]] -[is[current]]' >>
 </$vars>
+
+</$reveal>
+
+</section>
+
+</$list>
