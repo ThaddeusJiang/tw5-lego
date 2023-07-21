@@ -1,0 +1,17 @@
+created: 20230228023249915
+modified: 20230721053055981
+tags: Example
+title: macros/image - render image with caption
+type: text/vnd.tiddlywiki
+
+# drag and drop $:/plugins/ThaddeusJiang/lego/macros/img
+
+usage
+
+```
+<<img "image url" "caption text" >>
+```
+
+result:
+
+<<img "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?ixlib" "Thanks to @JJYing for making this photo available on @unsplash 🎁 https://unsplash.com/photos/9Qwbfa_RM94" >>

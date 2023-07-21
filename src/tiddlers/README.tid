@@ -1,28 +1,9 @@
 created: 20180818170954023
 creator: Thaddeus Jiang
-modified: 20230712041637319
+modified: 20230721050647117
 modifier: Thaddeus Jiang
 tags: 
 title: README
 type: text/vnd.tiddlywiki
-
-!! Demo
-
-!! 1. [[Example - macros/img]]
-
-!! 2. [[Example - tags/secret]]
-
-> add <<tag secret>> tag to your tiddlers.
-
-!! 3. [[Example - code-blocks/secret]]
-
-!! 4. tiddlers/tag-renamer
-
-[[$:/plugins/ThaddeusJiang/lego/tiddlers/tag-renamer]]
-
-!! 5. [[Example - tiddler-counter]]
-
-!! 6. [[Example - linked-tiddlers]]
-
 
 {{$:/plugins/ThaddeusJiang/lego/readme}}
