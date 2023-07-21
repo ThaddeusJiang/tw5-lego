@@ -1,8 +1,7 @@
 {
   "name": "tw5-lego",
-  "version": "0.0.2",
   "author": "Thaddeus Jiang",
-  "description": "TiddlyWiki Plugin for Beautiful TiddlyWiki",
+  "description": "TiddlyWiki tiddlers for refine TiddlyWiki",
   "homepage": "https://github.com/ThaddeusJiang/tw5-lego",
   "license": "MIT",
   "keywords": [
