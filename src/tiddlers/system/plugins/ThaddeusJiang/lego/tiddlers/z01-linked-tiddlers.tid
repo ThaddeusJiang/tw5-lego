@@ -1,7 +1,7 @@
 created: 20230307134203066
-modified: 20230721055722903
+modified: 20230721130308372
 tags: $:/tags/ViewTemplate $:/plugins/ThaddeusJiang/lego $:/plugins/ThaddeusJiang/lego/feature
-title: $:/plugins/ThaddeusJiang/lego/z01-linked-tiddlers
+title: $:/plugins/ThaddeusJiang/lego/tiddlers/z01-linked-tiddlers
 type: text/vnd.tiddlywiki
 
 <$list filter="[all[current]!is[system]]">

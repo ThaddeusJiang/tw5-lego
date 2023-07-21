@@ -1,13 +1,13 @@
 author: Thaddeus Jiang
 created: 20230228015057191
-description: beautify TiddlyWiki UI
+description: Refine your TiddlyWiki with tw5-lego
 list: readme license history
-modified: 20230228044059615
+modified: 20230721130802344
 plugin-type: plugin
 source: https://github.com/ThaddeusJiang/tw5-lego
 tags: $:/plugins/ThaddeusJiang/lego
 title: $:/plugins/ThaddeusJiang/lego
 type: application/json
-version: 0.0.1
+version: 2023-07-21
 
 {"tiddlers": {}}
