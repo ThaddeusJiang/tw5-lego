@@ -1,6 +1,6 @@
 created: 20230228015217430
 creator: Thaddeus Jiang
-modified: 20230721055941024
+modified: 20230728035128273
 modifier: Thaddeus Jiang
 tags: $:/plugins/ThaddeusJiang/lego
 title: $:/plugins/ThaddeusJiang/lego/readme
@@ -26,3 +26,4 @@ drag and drop the special tiddler into your wiki
 # [[tag-renamer - rename tags]]
 # [[tiddler-counter - count tiddlers]]
 # [[linked-tiddlers - references summary]]
+# [[repeat-history - how many times did you repeat]]
