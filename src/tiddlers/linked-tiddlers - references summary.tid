@@ -1,8 +1,10 @@
 created: 20230721050920180
-modified: 20230721130409720
+modified: 20230728035742627
+tags: doc example
 title: linked-tiddlers - references summary
 type: text/vnd.tiddlywiki
 
 
-drag and drop $:/plugins/ThaddeusJiang/lego/tiddlers/z01-linked-tiddlers into you wiki
+# drag and drop $:/plugins/ThaddeusJiang/lego/ui/ViewTemplate/z98-linked-tiddlers into you wiki
 
+result: 👇
