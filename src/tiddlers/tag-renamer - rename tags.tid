@@ -1,13 +1,13 @@
 created: 20230721050614830
-modified: 20230728035613778
+modified: 20250801084220349
 tags: doc example
 title: tag-renamer - rename tags
 type: text/vnd.tiddlywiki
 
 
-# drag and drop $:/plugins/ThaddeusJiang/lego/tiddlers/tag-renamer into your wiki 
+# drag and drop [[tw5-lego/tag-renamer]] into your wiki 
 
 
 result: 👇
 
-{{$:/plugins/ThaddeusJiang/lego/tiddlers/tag-renamer}}
+{{tw5-lego/tag-renamer}}

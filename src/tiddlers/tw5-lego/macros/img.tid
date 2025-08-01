@@ -1,7 +1,7 @@
 created: 20230228020209322
-modified: 20230712040033130
-tags: $:/tags/Macro $:/plugins/ThaddeusJiang/lego $:/plugins/ThaddeusJiang/lego/feature
-title: $:/plugins/ThaddeusJiang/lego/macros/img
+modified: 20250801084053591
+tags: $:/tags/Macro
+title: tw5-lego/macros/img
 type: text/vnd.tiddlywiki
 
 \define img(src, caption)

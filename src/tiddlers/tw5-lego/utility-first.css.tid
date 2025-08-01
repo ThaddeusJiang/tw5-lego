@@ -1,7 +1,7 @@
 created: 20230228020330057
-modified: 20230608135539436
-tags: $:/tags/Stylesheet $:/plugins/ThaddeusJiang/lego
-title: $:/plugins/ThaddeusJiang/lego/styles/utility-first.css
+modified: 20250801084053593
+tags: $:/tags/Stylesheet
+title: tw5-lego/utility-first.css
 type: text/css
 
 .flex {

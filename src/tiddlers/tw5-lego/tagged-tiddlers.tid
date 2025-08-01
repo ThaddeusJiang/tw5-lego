@@ -1,0 +1,16 @@
+created: 20250801080516852
+modified: 20250801084053593
+tags: $:/tags/ViewTemplate
+title: tw5-lego/tagged-tiddlers
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[tiddlers+shadows]tags[]] +[match<currentTiddler>]" variable="isTag">
+
+
+<$vars searchme=<<currentTiddler>> searchspx={{{ [<currentTiddler>escaperegexp[]]}}} >
+Tagged:
+
+<<list-links '[!is[system]all[current]tagging[]!tag[hide]sort[title]] -[is[current]]' >>
+</$vars>
+
+</$list>

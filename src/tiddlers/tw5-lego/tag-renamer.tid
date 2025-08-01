@@ -1,9 +1,9 @@
 created: 20230627095431301
-modified: 20230728034914184
+modified: 20250801084224396
 new: 
-old: example
-tags: $:/plugins/ThaddeusJiang/lego $:/plugins/ThaddeusJiang/lego/feature
-title: $:/plugins/ThaddeusJiang/lego/tiddlers/tag-renamer
+old: 
+tags: 
+title: tw5-lego/tag-renamer
 type: text/vnd.tiddlywiki
 
 Old tag: <$edit-text tiddler=<<currentTiddler>> field="old" placeholder="old tag"/>

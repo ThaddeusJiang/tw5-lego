@@ -1,11 +1,11 @@
 created: 20230728031243434
-history: 2023-07-28
-modified: 20230728040422974
+history: 2023-07-28 2025-08-01
+modified: 20250801084136916
 tags: example repeated
 title: repeat-history - how many times did you repeat
 type: text/vnd.tiddlywiki
 
-# drag and drop $:/plugins/ThaddeusJiang/lego/ui/ViewTemplate/z89-repeat-history in to your wiki
+# drag and drop [[tw5-lego/repeat-history]] in to your wiki
 # add <<tag repeated>> to your tiddler
 
 result: 👇
