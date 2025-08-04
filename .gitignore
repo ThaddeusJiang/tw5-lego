@@ -3,3 +3,7 @@ npm-debug.log
 Thumbs.db
 src/tiddlers/system/StoryList*.tid
 src/tiddlers/system/Import.tid
+
+# pnpm
+.pnpm-store/
+pnpm-debug.log*
