@@ -1,0 +1,12 @@
+created: 20250923041124742
+modified: 20250923041501101
+tags: 
+title: Docs: tw5-lego/wikipedia-link
+type: text/vnd.tiddlywiki
+wikipedia: https://en.wikipedia.org/wiki/TiddlyWiki
+
+
+# Drag [[tw5-lego/wikipedia-link]] into your wiki
+# Add a new field: field name is `wikipedia`, field value is wikipedia link
+# You will see a wikipedia link in footer
+

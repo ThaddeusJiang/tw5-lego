@@ -1,7 +1,7 @@
 created: 20230228020209322
-modified: 20250801084053591
+modified: 20250923040641933
 tags: $:/tags/Macro
-title: tw5-lego/macros/img
+title: tw5-lego/img
 type: text/vnd.tiddlywiki
 
 \define img(src, caption)
