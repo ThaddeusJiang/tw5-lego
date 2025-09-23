@@ -1,0 +1,17 @@
+created: 20250923040230400
+modified: 20250923040437103
+tags: $:/tags/ViewTemplate
+title: tw5-lego/wikipedia-link
+type: text/vnd.tiddlywiki
+
+\procedure wikipedia-link()
+
+<$list filter="[<currentTiddler>has[wikipedia]]" >
+  <$button class="tc-btn-invisible tc-tiddlylink">
+  <a href={{!!wikipedia}} target="_blank">wikipedia {{$:/core/images/open-window}}</a>
+</$button>
+</$list>
+
+\end
+
+<<wikipedia-link>>
