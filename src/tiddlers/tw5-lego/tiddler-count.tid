@@ -1,9 +1,9 @@
 created: 20220302002824184
 creator: TJ
-modified: 20250801084053593
+modified: 20250923040516210
 modifier: TJ
 tags: $:/tags/ViewTemplate
-title: tw5-lego/tiddler-counter
+title: tw5-lego/tiddler-count
 type: text/vnd.tiddlywiki
 
 <$list filter="[all[current]!is[system]]">

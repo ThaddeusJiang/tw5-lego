@@ -1,24 +1,21 @@
 created: 20230228015217430
 creator: Thaddeus Jiang
-modified: 20250801084355598
+modified: 20250923042810118
 modifier: Thaddeus Jiang
 tags: 
 title: README
 type: text/vnd.tiddlywiki
 
-Welcome to [[tw5-lego|https://github.com/ThaddeusJiang/tw5-lego]], refine your TiddlyWiki with tw5-lego tiddlers.
+Welcome to [[ThaddeusJiang/tw5-lego|https://github.com/ThaddeusJiang/tw5-lego]], refine your TiddlyWiki with tw5-lego tiddlers.
 
 ! Install
 
 drag and drop the files into your wiki
 
-
 ! Features
 
-# [[macros/image - render image with caption]]
-# [[secret-tag - mask the secret tiddlers]]
-# [[secret-code-block - mask the secret codes]]
-# [[tag-renamer - rename tags]]
-# [[tiddler-counter - count tiddlers]]
-# [[linked-tiddlers - references summary]]
-# [[repeat-history - how many times did you repeat]]
+<<list-links filter:"[prefix[tw5-lego]]" >>
+
+! Docs
+
+<<list-links filter:"[prefix[Docs:]]" >>

@@ -1,10 +1,12 @@
 created: 20230228023249915
-modified: 20250801083912951
+modified: 20250923041704389
 tags: doc example
-title: macros/image - render image with caption
+title: Docs: tw5-lego/img
 type: text/vnd.tiddlywiki
 
-# drag and drop [[tw5-lego/macros/img]]
+<<.img >> - render image with caption
+
+# drag and drop [[tw5-lego/img]]
 
 usage
 
